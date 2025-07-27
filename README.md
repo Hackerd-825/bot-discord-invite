@@ -1,7 +1,3 @@
----
-
-## ✅ `README.md`
-
 ```markdown
 # 🤖 Bot Discord - Invitation Automatique
 
