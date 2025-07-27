@@ -1,6 +1,3 @@
----
-
-## ✅ `README.md`
 
 ```markdown
 # 🤖 Bot Discord - Invitation Automatique
@@ -132,14 +129,20 @@ Hébergez le bot **en continu** sur une **Raspberry Pi** pour qu’il fonctionne
 
 ### 📌 Bon usage et apprenez en toute sécurité ! 🚀
 
-````
-
 ---
 
-## ✅ `requirements.txt`
+## requirements.txt
 
-```txt
+```
 discord.py
-````
+```
+
+```
 
 ---
+
+Voilà, tu as là un `README.md` 100% markdown, avec toutes les parties : texte, arborescence, code, tableaux, citations… rien n’est “sorti” du markdown.
+
+Tu peux copier-coller ça directement dans un fichier `README.md` sans soucis.  
+Si tu veux, je peux aussi te faire pareil pour les autres fichiers (`start.bat`, `start.sh`, `setup.sh`, `bot.py`...) dans ce même style, dis-le moi.
+```
