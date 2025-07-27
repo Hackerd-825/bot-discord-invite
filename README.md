@@ -1,5 +1,4 @@
 
-```markdown
 # 🤖 Bot Discord - Invitation Automatique
 
 Ce projet est un **bot Discord** qui envoie automatiquement une **invitation prédéfinie** à des utilisateurs, puis suit leur réponse.  
