@@ -4,6 +4,8 @@ import json
 import asyncio
 import os
 import sys
+# crée par hackerd_825
+# https://github.com/Hackerd-825/
 
 # Pour Windows : fixer le bug avec aiodns
 if sys.platform == "win32":
