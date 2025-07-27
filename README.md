@@ -33,7 +33,7 @@ Il est conçu pour être **hébergé facilement** sur **Windows ou Raspberry Pi 
 └── log/
 ├── sent.txt
 ├── accepted.txt
-├── not\_accepted.txt
+├── not_accepted.txt
 
 ````
 
